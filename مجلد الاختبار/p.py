@@ -1,1 +1,1 @@
-kjfjebjew
+print("ali ameen")
